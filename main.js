@@ -11,18 +11,17 @@ class soon {
     const hours = Math.floor((diff % 86400) / 3600)
     const minutes= Math.floor(((diff % 86400) % 3600)/60)
     const seconds =(((diff % 86400) % 3600)%3600)%60
-    
+    time.textContent = ` ${days} Days .. ${hours} Hours .. ${minutes} Minutes .. ${seconds} Seconds ..`
 
     console.log(now.format('LLL'));
     console.log(next.format('LLL'));
     console.log(diff);
-  
     console.log(days);
     console.log(hours);
     console.log(minutes);
     console.log(seconds);
 
-    time.textContent = ` ${days} Days ${hours} Hours ${minutes} Minutes ${seconds} Seconds`
+    
   }
 
 }
