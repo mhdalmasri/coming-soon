@@ -2,7 +2,7 @@
 
 a Landing Page show us the remain time to NYC 2020
 
-![alt text](https://github.com/mhdalmasri/courses-app/blob/master/Courses_App.png)
+![alt text](https://github.com/mhdalmasri/coming-soon/blob/master/coming-soon.png)
 
 
 ## Built With
