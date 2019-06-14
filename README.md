@@ -9,7 +9,8 @@ a Landing Page show us the remain time to NYC 2020
 
 * HTML
 * CSS 
-* Bootstrab 
+* Bootstrab
+* moments.js
 
 ## Authors
 
